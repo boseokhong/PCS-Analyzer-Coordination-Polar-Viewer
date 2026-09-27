@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+.idea/
+.vscode/
+
+*.cpvsession
+coordination_polar_viewer_config.json
+
+build/
+dist/
+*.egg-info/
+
+.DS_Store
+Thumbs.db
